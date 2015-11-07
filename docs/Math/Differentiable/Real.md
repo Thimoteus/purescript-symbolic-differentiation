@@ -1,4 +1,4 @@
-## Module Data.Differentiable.Real
+## Module Math.Differentiable.Real
 
 #### `evalExpr`
 

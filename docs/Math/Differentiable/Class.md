@@ -1,4 +1,4 @@
-## Module Data.Differentiable.Class
+## Module Math.Differentiable.Class
 
 #### `Realizable`
 
@@ -8,7 +8,7 @@ class Realizable a where
 ```
 
 Types which can be represented as Numbers. This should be some kind of
-embedding, for example the only admissible instance toReal :: Number -> Number
+embedding, for example the only admissible instance `toReal :: Number -> Number`
 is the id function.
 
 ##### Instances

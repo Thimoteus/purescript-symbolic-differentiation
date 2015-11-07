@@ -20,7 +20,7 @@ import qualified Data.Int as Int
 import qualified Data.Rational as Rational
 
 -- | Types which can be represented as Numbers. This should be some kind of
--- | embedding, for example the only admissible instance toReal :: Number -> Number
+-- | embedding, for example the only admissible instance `toReal :: Number -> Number`
 -- | is the id function.
 class Realizable a where
   toReal :: a -> Number
