@@ -1,0 +1,19 @@
+{
+  "name": "purescript-symbolic-differentiation",
+  "version": "1.0.0",
+  "moduleType": [
+    "node"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "output"
+  ],
+  "dependencies": {
+    "purescript-math": "~0.2.0",
+    "purescript-integers": "~0.2.1",
+    "purescript-rationals": "~0.3.0",
+    "purescript-transformers": "~0.8.2"
+  }
+}
