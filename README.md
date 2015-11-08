@@ -13,5 +13,5 @@ See the test folder for examples.
 
 ## Documentation
 
-* [`Math.Differentiable.Real`](docs/Data/Differentiable/Real.md)
-* [`Math.Differentiable.Class`](docs/Data/Differentiable/Class.md)
+* [`Math.Differentiable.Real`](docs/Math/Differentiable/Real.md)
+* [`Math.Differentiable.Class`](docs/Math/Differentiable/Class.md)
